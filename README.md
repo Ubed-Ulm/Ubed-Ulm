@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Ubed.
 **I turn messy data into automated engines.**
 
-I am an **Analytics Engineer** and **Automation Specialist** based in Dubai. I don't just analyze data; I build the infrastructure that makes it reliable, and the AI agents that make it actionable.
+I am an **Data Analyst** and **Analytics Engineer** based in Dubai. I don't just analyze data; I build the infrastructure that makes it reliable, and the AI agents that make it actionable.
 
 ### 🚀 What I Do
 * **Analytics Engineering:** Transforming raw, chaotic data (Excel/SQL) into clean, reliable Star Schemas and Data Warehouses.
